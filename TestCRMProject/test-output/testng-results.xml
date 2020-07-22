@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Failed suite [Failed suite [Default suite]]" duration-ms="58935" started-at="2020-07-22T10:15:05Z" finished-at="2020-07-22T10:16:04Z">
+    <groups>
+    </groups>
+    <test name="Default test(failed)(failed)" duration-ms="58935" started-at="2020-07-22T10:15:05Z" finished-at="2020-07-22T10:16:04Z">
+      <class name="EditProfileTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:EditProfileTest@5cb137]" name="setUp" is-config="true" duration-ms="27170" started-at="2020-07-22T15:45:05Z" finished-at="2020-07-22T15:45:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyEditProfileTest()[pri:0, instance:EditProfileTest@5cb137]" name="verifyEditProfileTest" duration-ms="24742" started-at="2020-07-22T15:45:32Z" finished-at="2020-07-22T15:45:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEditProfileTest -->
+        <test-method status="PASS" signature="tearoff()[pri:0, instance:EditProfileTest@5cb137]" name="tearoff" is-config="true" duration-ms="5998" started-at="2020-07-22T15:45:58Z" finished-at="2020-07-22T15:46:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearoff -->
+      </class> <!-- EditProfileTest -->
+    </test> <!-- Default test(failed)(failed) -->
+  </suite> <!-- Failed suite [Failed suite [Default suite]] -->
+</testng-results>
